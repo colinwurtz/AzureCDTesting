@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCDTesting", "AzureCDTesting\AzureCDTesting.csproj", "{9325C8F3-F930-4A63-9E07-3906D6A10C9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureCDTesting.Tests", "AzureCDTesting.Tests\AzureCDTesting.Tests.csproj", "{6FC51221-E419-4AFE-AD7B-5B8CBE35135A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9325C8F3-F930-4A63-9E07-3906D6A10C9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9325C8F3-F930-4A63-9E07-3906D6A10C9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9325C8F3-F930-4A63-9E07-3906D6A10C9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9325C8F3-F930-4A63-9E07-3906D6A10C9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FC51221-E419-4AFE-AD7B-5B8CBE35135A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FC51221-E419-4AFE-AD7B-5B8CBE35135A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FC51221-E419-4AFE-AD7B-5B8CBE35135A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FC51221-E419-4AFE-AD7B-5B8CBE35135A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
